@@ -1,6 +1,6 @@
 services:
   - type: static
-    name: editoral
+    name: edutotal
     buildCommand: npm run build
     staticPublishPath: ./dist
     routes:
